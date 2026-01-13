@@ -93,10 +93,16 @@ Como utilizamos integração com modelos de linguagem (LLM), ressaltamos que pod
  * Luis Felipi Cruz de Souza
 
 ## Imagens/screenshots
-É necessário colocar pelo menos 3 imagens/screenshots do projeto, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
+### Tela inicial
+![Tela inicial](Imagens/exemplo1.png)
 
-Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando (abrir este Readme no modo raw ou como txt):
+### Escolha da interface
+![Escolha da interface](Imagens/exemplo2.png)
 
-![Imagem](https://github.com/hackoonspace/Hackoonspace-template/blob/master/exemplo.png)
+### Backend em execução
+![Backend em execução](Imagens/exemplo3.png)
 
-É preferível que vocês usem imagens hospedadas no próprio GitHub do projeto. É só referenciar o link delas no comando acima.
+### Resultado
+![Resultado](Imagens/exemplo4.png)
+
+
